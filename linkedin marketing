@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>teste</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table id="Table_01" width="600" height="1702" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="11">
+			<img src="images/testehiperlink_01.gif" width="600" height="881" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/testehiperlink_02.gif" width="289" height="522" alt=""></td>
+		<td colspan="5">
+			<a href="br.linkedin.com">
+				<img src="images/linkedin.gif" width="143" height="21" border="0" alt=""></a></td>
+		<td colspan="4" rowspan="2">
+			<img src="images/testehiperlink_04.gif" width="168" height="522" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<img src="images/testehiperlink_05.gif" width="143" height="501" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<img src="images/testehiperlink_06.gif" width="76" height="298" alt=""></td>
+		<td colspan="9">
+			<a href="https://bit.ly/3hhp69Y"
+				onmouseover="window.status='Viva Vivo';  return true;"
+				onmouseout="window.status='';  return true;">
+				<img src="images/linkedin-empresa.gif" width="444" height="76" border="0" alt=""></a></td>
+		<td rowspan="4">
+			<img src="images/testehiperlink_08.gif" width="80" height="298" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="9">
+			<img src="images/testehiperlink_09.gif" width="444" height="164" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/testehiperlink_10.gif" width="225" height="58" alt=""></td>
+		<td>
+			<a href="https://bit.ly/3l7IQiz">
+				<img src="images/facebook.gif" width="47" height="40" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="images/testehiperlink_12.gif" width="40" height="58" alt=""></td>
+		<td>
+			<a href="https://bit.ly/3j1g4OP">
+				<img src="images/instagram.gif" width="38" height="40" border="0" alt=""></a></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/testehiperlink_14.gif" width="40" height="58" alt=""></td>
+		<td>
+			<a href="https://bit.ly/3aIyXmK">
+				<img src="images/whatsapp.png" width="40" height="40" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="images/testehiperlink_16.gif" width="14" height="58" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/testehiperlink_17.gif" width="47" height="18" alt=""></td>
+		<td>
+			<img src="images/testehiperlink_18.gif" width="38" height="18" alt=""></td>
+		<td>
+			<img src="images/testehiperlink_19.gif" width="40" height="18" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="76" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="213" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="12" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="47" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="40" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="38" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="6" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="34" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="40" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="14" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="80" height="1" alt=""></td>
+	</tr>
+</table>
+</body>
+</html>
